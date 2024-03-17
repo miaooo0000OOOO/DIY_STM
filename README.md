@@ -14,3 +14,5 @@
 ## 参考与引用
 
 [Home-Built STM](https://dberard.com/home-built-stm/)
+
+[【硬核】我用3D打印的STM看到了碳原子 自制扫描隧道显微镜【终】](https://github.com/MechRedPanda/red-panda-stm)
